@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\net7.0\BlueYonder.Hotels.Client.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\net7.0\BlueYonder.Hotels.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\net7.0\BlueYonder.Hotels.Client.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\net7.0\BlueYonder.Hotels.Client.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Mod03\LabFiles\Lab1\Starter\BlueYonder.Hotels.Client\obj\Debug\net7.0\BlueYonder.Hotels.Client.csproj.CoreCompileInputs.cache
